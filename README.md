@@ -182,8 +182,8 @@ $(document).ready(function() {
 ---
 
 ## **6️ Running the Project**
-1. Save `index.html` and `app.js` in the same directory.
-2. Open `index.html` in your browser.
+1. Save `task_manager.html` and `app.js` in the same directory.
+2. Open `task_manager.html` in your browser.
 3. Try adding tasks and observe UI updates.
 4. Test **invalid inputs** like missing description or negative hours.
 
